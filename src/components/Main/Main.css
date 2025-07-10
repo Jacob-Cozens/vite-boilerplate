@@ -1,0 +1,16 @@
+.main {
+  background-color: white;
+}
+
+.main__text {
+  position: absolute;
+  left: 750px;
+  bottom: 400px;
+}
+
+.main__button {
+  position: absolute;
+  left: 692px;
+  bottom: 350px;
+}
+    
