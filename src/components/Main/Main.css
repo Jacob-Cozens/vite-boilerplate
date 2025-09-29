@@ -11,6 +11,17 @@
 .main__button {
   position: absolute;
   left: 692px;
-  bottom: 350px;
+  bottom: 375px;
 }
-    
+
+.password__text {
+  position: absolute;
+  right: 710px;
+  bottom: 300px;
+}
+
+.password__input {
+  position: absolute;
+  left: 675px;
+  bottom: 275px;
+}
